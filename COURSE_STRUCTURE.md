@@ -53,8 +53,6 @@ ZAmericanEnglish
     └── L4_StudyPlan.md
 ```
 
-> Individual lessons, videos, audio files, books, and supporting materials are intentionally omitted here to keep the overview clear and readable.
-
 ## Course Access
 
 [**Open the complete course on Google Drive →**](https://drive.google.com/drive/folders/1uf6O3jRU-Qlz6xPN3r57fYacZ8xz1oCp)
